@@ -2,7 +2,7 @@
 title: Bienvenido/a
 description: Página de inicio de nodo ambiental
 published: true
-date: 2020-08-14T22:56:06.792Z
+date: 2020-08-14T23:00:26.798Z
 tags: 
 editor: markdown
 ---
