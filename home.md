@@ -2,7 +2,7 @@
 title: Bienvenido
 description: Página de inicio de nodo ambiental
 published: true
-date: 2020-08-14T16:32:17.377Z
+date: 2020-08-14T19:37:16.597Z
 tags: 
 editor: markdown
 ---
@@ -157,9 +157,9 @@ Ejemplifiquemos esto, tal como hicimos con el segmento anterior. Supongamos que 
   
   Dentro del bloque principal de contenidos se desarrolla lo que se definió previamente en la descripción general. Podemos entender a la descripción general como una plantilla que nos sirve para desarrollar el contenido.
   
-  Es más fácil si lo entendemos como una cortadora de galletas para cuando hacemos galletas; la masa es nuestro compendio total de saberes relacionados al artículo, y mediante la descripción general seleccionamos qué partes de esta masa van a ir al horno (el contenido del artículo) y qué partes nos comemos crudas en secreto.
+  Es más fácil si lo entendemos como un molde para cortar galletas; la masa es nuestro compendio total de saberes relacionados al artículo, y mediante la descripción general seleccionamos qué partes de esta masa van a ir al horno (el contenido del artículo) y qué partes nos comemos crudas en secreto.
   
-  Esta segmentación hace que la persona que lee el artículo sepa inmediatamente de qué se trata al leer el primer o primeros párrafos (idealmente uno solo), y si quiere saber más al respecto, puede continuar leyendo para informarse, y si no le interesa, puede dejar el texto sin tener que haber gastado mucho tiempo en descubrir que no era un tema interesante. Esto nos permite respetar el tiempo del lector y hace más agradable la lectura, al ya saber de qué se trata.
+  Esta segmentación hace que la persona que lee el artículo sepa inmediatamente de qué se trata al leer el primer o primeros párrafos (idealmente uno solo), y si quiere saber más al respecto, puede continuar leyendo para informarse, si no le interesa, puede dejar el texto sin tener que haber gastado mucho tiempo en descubrir que no era un tema interesante. Esto nos permite respetar el tiempo del lector y hace más agradable la lectura, al ya saber de qué se trata.
   <p style="text-align: center; font-size: 4em; margin-top: -40px; margin-bottom: 20px;">...</p>
 </div>
 
@@ -181,7 +181,7 @@ En este ejemplo desarrollamos más una de las ideas previamente mencionadas, la 
   						border-bottom: 1px solid rgba(255,255,255,0.2);
               "
        >Cierre</p>
-<p>En el cierre del artículo se trata de concluir la o las ideas expresadas a través de él, y aportar comentarios, dudas o preguntas que puedan suscitar discusión o pensamiento.</p>
+<p>En el cierre del artículo se trata de concluir la o las ideas expresadas a través de él, y aportar comentarios, dudas o preguntas que puedan suscitar discusión o reflexión.</p>
 </div> 
 
 De nuevo, continuemos con nuestro ejemplo:
@@ -202,10 +202,10 @@ De nuevo, continuemos con nuestro ejemplo:
   
   Uno es el propósito de archivar conocimiento. El archivado de conocimiento es significativo, de lo contrario cualquier evento puede hacer que desaparezca toda la experiencia y experticia en un dominio que haya desarrollado la organización. Y particularmente, dentro de Nodo Ambiental, aspiramos a un mundo donde haya colaboración abierta, libre y gratuita entre las diversas organizaciones o individuos que son parte de nuestra sociedad, por lo que tener un archivo con todo lo desarrollado hasta el momento es importante.
   
-  Otro es la referencia. Cuando alguien quiere acceder a este conocimiento de un dominio, tiene que tener de dónde obtenerlo. Aún dentro de una organización, muchas veces sucede que distintas personas tienen distintos conocimientos, pero requieren colaboración para poder lograr sus objetivos comunes, y poder saber que ese conocimiento está ahí, que puedo referenciarme a él y que puedo trabajar con él es invaluable para el trabajo en equipo.
+  Otro es la referencia. Cuando alguien quiere acceder a este conocimiento de un dominio, tiene que tener una orientación de dónde obtenerlo. Aún dentro de una organización, muchas veces sucede que distintas personas tienen distintos conocimientos, pero requieren colaboración para poder lograr sus objetivos comunes y poder saber que ese conocimiento está ahí, que puedo referenciarme a él y que puedo trabajar con él es invaluable para el trabajo en equipo.
   
-  Otro es la coordinación. En un sistema como éste, un concepto (ya sea de cómo operar, un concimiento específico, planes a futuro, etc.) está abierto a que se discuta sobre él, que se moldee y que se modifique según el consenso obtenido entre todas las partes. Por ejemplo, si alguien escribe una pequeña guía de cómo publicar en Facebook, y a otro integrante relacionado con la tarea de publicar o distribuir la información no le gusta cómo se debe hacer algo, es libre de iniciar una discusión y alcanzar un consenso, para luego editar la guía. 
-  Esto es muy importante porque no solamente se coordina el contenido, si noq ue ofrece un canal claro y directo mediante el cual elevar sus opiniones.
+  Otro es la coordinación. En un sistema como éste, un concepto (ya sea de cómo operar, un concimiento específico, planes a futuro, entre otras cosas) está abierto a que se discuta sobre él, que se moldee y que se modifique según el consenso obtenido entre todas las partes. Por ejemplo, si alguien escribe una pequeña guía de cómo publicar en Facebook, y a otro integrante relacionado con la tarea de publicar o distribuir la información no le gusta cómo se debe hacer algo, es libre de iniciar una discusión y alcanzar un consenso, para luego editar la guía. 
+  Esto es muy importante porque no solamente se coordina el contenido, si no que ofrece un canal claro y directo mediante el cual elevar sus opiniones.
   
   Y para no extenderlo más, escriban muchos artículos y hagamos juntos crecer esta Wiki.
   <br>
@@ -217,8 +217,8 @@ En este ejemplo cerramos explicando en detalle la importancia de realizar el tra
 
 Esta Wiki es un elemento importante del camino que toma nuestra organización. 
 
-Fundación Nodo Ambiental busca generar nexos de información libre y verificable, para el bien de la salud humana y ambiental. Alcanzar los objetivos de mejorar la salud humana y ambiental se hace mediante la facilitación de proyectos replicables a otras organizaciones, mediante la generación de proyectos propios, y el libre intercambio de conocimiento. Este sitio, entonces, es un lugar donde plasmar todo eso, de manera accesible, libre, referenciable y replicable. 
+Fundación Nodo Ambiental busca generar nexos de información libre y verificable, para el bien de la salud humana y ambiental. Alcanzar los objetivos de mejorar la salud humana y ambiental se hace mediante la facilitación de proyectos replicables a otras organizaciones, mediante la generación de proyectos propios, y el libre intercambio de conocimiento. Este sitio, entonces, es un lugar donde plasmar todo lo dicho anteirormente, de manera accesible, libre, referenciable y replicable. 
 
-Invitamos a todos a escudriñar todo el contenido presente, sugerir cambios mediante comentarios, e invitamos a todos los miembros a escribir y documentar toda su experiencia y saber. Trabajemos para un futuro mejor.
+Invitamos a todos a escudriñar el contenido presente, sugerir cambios mediante comentarios, e invitamos a los miembros a escribir y documentar toda su experiencia y saberes. Trabajemos para un futuro mejor.
 
 <br>
