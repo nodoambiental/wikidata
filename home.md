@@ -2,7 +2,7 @@
 title: Bienvenido
 description: Página de inicio de nodo ambiental
 published: true
-date: 2020-08-14T16:30:07.834Z
+date: 2020-08-14T16:32:17.377Z
 tags: 
 editor: markdown
 ---
@@ -78,7 +78,7 @@ Hasta el momento, esto está organizado de manera:
 <p style="margin-bottom:-10px;">En esta sección están descriptos los objetivos e hitos a alcanzar y alcanzados, con su correspondiente desarrollo acerca de las motivaciones y dificultades para atravesarlos.</p>
 </div> 
 
-## Método de trabajo
+# Método de trabajo
 <br>
 
 > Por razones de brevedad, los ejemplos serán cortos y no incluirán demasiado detalle, pero en un artículo completo es posible explayarse mucho más. {.is-warning}
@@ -114,7 +114,7 @@ Tomemos un ejemplo de descripción general. Supongamos que estamos escribiendo u
             margin: 30px; 
             margin-top:20px; 
             margin-bottom: 20px;">
-  <h1>Cómo escribir un buen artículo</h1>
+  <h2>Cómo escribir un buen artículo</h2>
   <br>
   Es importante escribir bien un artículo para que el lector pueda comprender adecuadamente la información y se logre el objetivo de transmitir la información que estamos escribiendo. Es importante definir cómo escribir de manera adecuada un artículo para que la Wiki funcione de manera correcta.
   
