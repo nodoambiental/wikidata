@@ -2,7 +2,7 @@
 title: Bienvenido
 description: Página de inicio de nodo ambiental
 published: true
-date: 2020-08-14T19:37:16.597Z
+date: 2020-08-14T19:37:57.863Z
 tags: 
 editor: markdown
 ---
@@ -219,6 +219,6 @@ Esta Wiki es un elemento importante del camino que toma nuestra organización.
 
 Fundación Nodo Ambiental busca generar nexos de información libre y verificable, para el bien de la salud humana y ambiental. Alcanzar los objetivos de mejorar la salud humana y ambiental se hace mediante la facilitación de proyectos replicables a otras organizaciones, mediante la generación de proyectos propios, y el libre intercambio de conocimiento. Este sitio, entonces, es un lugar donde plasmar todo lo dicho anteirormente, de manera accesible, libre, referenciable y replicable. 
 
-Invitamos a todos a escudriñar el contenido presente, sugerir cambios mediante comentarios, e invitamos a los miembros a escribir y documentar toda su experiencia y saberes. Trabajemos para un futuro mejor.
+Invitamos a todos a escudriñar el contenido presente, sugerir cambios mediante comentarios, e invitamos a los miembros a escribir y documentar toda su experiencia y saber. Trabajemos para un futuro mejor.
 
 <br>
