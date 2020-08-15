@@ -2,7 +2,7 @@
 title: Bienvenido/a
 description: Página de inicio de nodo ambiental
 published: true
-date: 2020-08-15T02:02:25.582Z
+date: 2020-08-15T02:47:09.132Z
 tags: 
 editor: markdown
 ---
@@ -11,7 +11,7 @@ editor: markdown
 <div>
 	  <h1
        style="text-align: center; font-size: 3em; padding-bottom:40px;"
-       >¡Bienvenido!</h1>
+       >¡Bienvenido/a!</h1>
 </div>
 <div>
 	  <p
@@ -21,7 +21,7 @@ editor: markdown
               margin-top: 20px;
               margin-bottom: 30px;
               "
-       >Esta es la Wiki abierta a miembros de la Fundación Nodo Ambiental.</p>
+       >Ésta es la Wiki abierta de la Fundación Nodo Ambiental.</p>
 </div>
  
 
