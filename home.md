@@ -2,7 +2,7 @@
 title: Bienvenido/a
 description: Página de inicio de nodo ambiental
 published: true
-date: 2020-08-14T23:00:26.798Z
+date: 2020-08-15T02:02:25.582Z
 tags: 
 editor: markdown
 ---
@@ -21,7 +21,7 @@ editor: markdown
               margin-top: 20px;
               margin-bottom: 30px;
               "
-       >Esta es la Wiki abierta de la Fundación Nodo Ambiental.</p>
+       >Esta es la Wiki abierta a miembros de la Fundación Nodo Ambiental.</p>
 </div>
  
 
@@ -32,6 +32,8 @@ editor: markdown
 ## Mecanismo del sitio
 
 Los usuarios registrados en este sitio son libres de crear artículos pertinentes a las áreas de interés. Estos artículos a su vez serán discutidos y se modificará o incorporará contenido según corresponda.
+
+El registro requiere ser miembro adherente de Fundación Nodo Ambiental, lo cual permite el uso del sistema de correo electrónico nodoambiental.org y herramientas asociadas de comunicación, difusión, editorial, organización, y diversos temas relativos a las relaciones, flujos de trabajo, procesos, gestión de proyectos y trabajo en equipo mutuamente coordinado. 
 
 De esta manera se convierte en un sistema colaborativo y fluido donde todas las necesidades de los integrantes sean validadas y respetadas, y se alcancen lineamientos de trabajo, reglas de organización y sistemas bien lubricados para que la organización funcione manera correcta.
 
