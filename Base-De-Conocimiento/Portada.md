@@ -2,7 +2,7 @@
 title: Portada
 description: 
 published: true
-date: 2020-08-25T18:57:12.826Z
+date: 2020-08-25T19:16:47.908Z
 tags: 
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
               margin-top: 20px;
               margin-bottom: 30px;
               "
-       >En esta sección se detallan toda la información y el conocimiento de dominio que Nodo Ambiental desarrolló hasta el momento.</p>
+       >En esta sección se detalla toda la información y el conocimiento de dominio que Nodo Ambiental desarrolló hasta el momento.</p>
 </div>
 
 Aquí se recopila todo lo que, como organización, aprendimos. Manuales, guías de uso o manejo de recursos, síntesis de conocimientos específicos, proyectos realizados y demás conocimiento e información que sea importante documentar.
