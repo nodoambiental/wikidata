@@ -2,7 +2,7 @@
 title: Portada
 description: 
 published: true
-date: 2020-08-25T19:20:10.122Z
+date: 2020-08-25T20:44:18.610Z
 tags: 
 editor: markdown
 ---
@@ -31,4 +31,14 @@ Esta sección no solamente sirve internamente para nuestra organización, todos 
 Nosotros creemos en la importancia de la información abierta, libre, gratuita y certera. Es parte del núcleo de valores de nuestra organización la transparencia en todos sus aspectos y la posibilidad de que otras organizaciones puedan replicar los sistemas exitosos que hayamos usado aquí.
 
 Esta portada contiene los enlaces a las subpáginas y subsecciones correspondientes.
- 
+
+
+- [Trabajo con redes sociales](/Sistemas-de-Trabajo/Redes-Sociales)
+
+- [Flujos de trabajo en equipo](/Sistemas-de-Trabajo/Flujos-de-Trabajo) __\[WIP]__
+
+- [Mecanismos de comunicación interna](/Sistemas-de-Trabajo/Comunicación) __\[WIP]__
+
+- [Administración de actividades](/Sistemas-de-Trabajo/Actividades) __\[WIP]__
+
+- [Administración de proyectos](/Sistemas-de-Trabajo/Proyectos) __\[WIP]__
