@@ -2,7 +2,7 @@
 title: Portada
 description: 
 published: true
-date: 2020-08-25T18:35:22.215Z
+date: 2020-08-25T18:49:40.937Z
 tags: 
 editor: markdown
 ---
@@ -29,4 +29,6 @@ Aquí se recopilan la documentación relacionada a cómo nuestra organización o
 Esta sección no solamente sirve internamente para nuestra organización, todos pueden utilizar esto como una referencia para entender cómo trabaja Nodo Ambiental, o como referencia para las aproximaciones a cómo realizar un trabajo o proyecto.
 
 Nosotros creemos en la importancia de la información abierta, libre, gratuita y certera. Es parte del núcleo de valores de nuestra organización la transparencia en todos sus aspectos y la posibilidad de que otras organizaciones puedan replicar los sistemas exitosos que hayamos usado aquí.
+
+Esta portada contiene los enlaces a las subpáginas y subsecciones correspondientes.
  
