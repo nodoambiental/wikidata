@@ -2,7 +2,7 @@
 title: Portada
 description: 
 published: true
-date: 2020-08-25T18:49:40.937Z
+date: 2020-08-25T19:20:10.122Z
 tags: 
 editor: markdown
 ---
@@ -24,7 +24,7 @@ editor: markdown
        >En esta sección se detallan los sistemas, flujos y métodos de trabajo usados en la organización.</p>
 </div>
 
-Aquí se recopilan la documentación relacionada a cómo nuestra organización opera, tanto externa como internamente. Esto implica guías de aproximación a un trabajo o proyecto, flujos de trabajo y el nexo que tengan entre sí, y las reglas que definan cómo se espera que se conduzcan las cosas.
+Aquí se recopila la documentación relacionada a cómo nuestra organización opera, tanto externa como internamente. Esto implica guías de aproximación a un trabajo o proyecto, flujos de trabajo y el nexo que tengan entre sí, y las reglas que definan cómo se espera que se conduzcan las cosas.
 
 Esta sección no solamente sirve internamente para nuestra organización, todos pueden utilizar esto como una referencia para entender cómo trabaja Nodo Ambiental, o como referencia para las aproximaciones a cómo realizar un trabajo o proyecto.
 
