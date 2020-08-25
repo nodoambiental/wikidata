@@ -2,7 +2,7 @@
 title: Celebraciones
 description: Pasos para abordar la generación de contenido relacionado a celebraciones y efemérides
 published: true
-date: 2020-08-25T20:35:59.477Z
+date: 2020-08-25T23:15:42.239Z
 tags: 
 editor: markdown
 ---
@@ -14,17 +14,17 @@ Con una serie de pasos se, busca homogeneizar el trabajo realizado entre quienes
 > Recordemos que todos estos pasos son _guías_, lineamientos que se deben seguir generalmente pero de ningún modo son inflexibles o absolutos. Esto, como todo proceso a refinar, es un trabajo siempre en evolución. {.is-info}
 
 ## Primero: Preparación del terreno
-El primer paso es investigar en fuentes primarias y secundarias datos de referencia sobre la celebración de el día particular. Esto debe hacerse con suficiente anticipación como para que haya tiempo de realizar todos los pasos necesarios para alcanzar el momento de publicar. Hay que tener en cuenta que cuánta anticipación es requerida depende de la complejidad del tema de la celebración y la complejidad del formato en el que se presentará.
+El primer paso es investigar en fuentes primarias y secundarias datos de referencia sobre la celebración del día particular. Esto debe hacerse con suficiente anticipación como para que haya tiempo de realizar todos los pasos necesarios para alcanzar el momento de publicar. Hay que tener en cuenta que cuánta anticipación es requerida depende de la complejidad del tema de la celebración, y la complejidad del formato en el que se presentará.
 
 El límite de una fuente secundaria sería que tenga las fuentes de información consultadas. Por ejemplo, un artículo de diario que refiere un nombre de una persona, su lugar de trabajo, y la web de la organización, todos datos verificables.
 
-Es importante documentar todas las fuentes para poder incluir las referencias necesarias cuando se realize otro tipo de contenido, como un blogpost.
+Es importante documentar todas las fuentes para poder incluir las referencias necesarias cuando se realice otro tipo de contenido, como un blogpost.
 
 ## Segundo: Hacer el pozo
 
 Una vez terminado el paso anterior (sin apresurar lo que no deba apresurarse), continúa la síntesis de contenidos. En base a lo leído y estudiado se destilan pequeños reportes que de manera breve y concisa sean capaces de expresar claramente las ideas principales del tema.
 
-Esta síntesis debe realizarse prestando atención a la terminología empleada, para no eliminar información importante en la búsqueda de la brevedad, y debe tenerse mucha atención con su verificabilidad; quien tome estas síntesis debe poder vincularlas de manera directa a el contenido del que tratan.
+Esta síntesis debe realizarse prestando atención a la jerga (terminología) empleada, para no eliminar información importante en la búsqueda de la brevedad, y debe tenerse mucha atención con su verificabilidad; quien tome estas síntesis debe poder vincularlas de manera directa al contenido del que tratan.
 
 ## Tercero: Colocar la plantita
 
@@ -56,4 +56,4 @@ En Nodo Ambiental utilizamos para esto __Mattermost__, un sistema de chat labora
 
 Con todo listo se procede a publicar. Hay que tener en cuenta los distintos canales en los que se publica, de acuerdo al tipo de contenido y el alcance que se busque, se puede publicar en todas las redes relevantes o solamente en alguna de mayor importancia.
 
-Nosotros nos centramos más en Facebook e Instagram, e incursionamos en LinkedIn y YouTube, pero nada limita a incorporar canales nuevos si lo amerita la ocasión.
+Nosotros nos centramos más en Facebook e Instagram, e incursionamos en LinkedIn, Twitter y YouTube, pero nada limita a incorporar canales nuevos si lo amerita la ocasión.
