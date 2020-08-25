@@ -2,7 +2,7 @@
 title: Redes Sociales
 description: Orientaciones de uso de sistemas de difusión y publicidad
 published: true
-date: 2020-08-25T20:13:21.167Z
+date: 2020-08-25T20:40:36.782Z
 tags: #facebook
 editor: markdown
 ---
@@ -14,13 +14,6 @@ Una primera cuestión es qué forma tiene el objetivo común y compartido entre 
 
 En cada una de estas subpáginas incluimos una plantilla que nos sirva como guía para trabajar con este tipo de contenidos.
 
-- Celebraciones
-- Infografías
-- Infoblog
-- Flujos de trabajo
-- Comunicación interna
-- Tablero de actividades
-- Calendario
-- Mattermost
-- Kanboard
-- Desarrollo web
+- [Celebraciones](/Sistemas-de-Trabajo/Redes-Sociales/Celebraciones)
+- [Infografías](/Sistemas-de-Trabajo/Redes-Sociales/Infografías) __\[WIP]__
+- [Infoblog](/Sistemas-de-Trabajo/Redes-Sociales/Infoblog) __\[WIP]__
