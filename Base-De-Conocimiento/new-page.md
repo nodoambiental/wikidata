@@ -2,7 +2,7 @@
 title: Redes Sociales
 description: Orientaciones de uso de sistemas de difusión y publicidad
 published: true
-date: 2020-08-25T20:12:29.936Z
+date: 2020-08-25T20:13:21.167Z
 tags: #facebook
 editor: markdown
 ---
