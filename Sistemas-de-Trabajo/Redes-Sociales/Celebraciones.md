@@ -2,21 +2,21 @@
 title: Celebraciones
 description: Pasos para abordar la generación de contenido relacionado a celebraciones y efemérides
 published: true
-date: 2020-08-25T23:15:42.239Z
+date: 2020-08-26T16:00:41.106Z
 tags: 
 editor: markdown
 ---
 
 # Cómo orientarse con la creación de efemérides
 
-Con una serie de pasos se, busca homogeneizar el trabajo realizado entre quienes componen el equipo que se encarga de crear el material que será distribuido en las redes sociales (en general las mismas personas que realizan este trabajo también se encargan de su distribución y publicación) y que todos los involucrados puedan organizarse y ejecutar su función correctamente.
+Con una serie de pasos se busca homogeneizar el trabajo realizado entre quienes componen el equipo que se encarga de crear el material que será distribuido en las redes sociales (en general las mismas personas que realizan este trabajo también se encargan de su distribución y publicación) y que todos los involucrados puedan organizarse y ejecutar su función correctamente.
 
 > Recordemos que todos estos pasos son _guías_, lineamientos que se deben seguir generalmente pero de ningún modo son inflexibles o absolutos. Esto, como todo proceso a refinar, es un trabajo siempre en evolución. {.is-info}
 
 ## Primero: Preparación del terreno
-El primer paso es investigar en fuentes primarias y secundarias datos de referencia sobre la celebración del día particular. Esto debe hacerse con suficiente anticipación como para que haya tiempo de realizar todos los pasos necesarios para alcanzar el momento de publicar. Hay que tener en cuenta que cuánta anticipación es requerida depende de la complejidad del tema de la celebración, y la complejidad del formato en el que se presentará.
+El primer paso es investigar en fuentes primarias y secundarias datos de referencia sobre la celebración del día particular. Esto debe hacerse con suficiente anticipación como para que haya tiempo de realizar todos los pasos necesarios para alcanzar el momento de publicar. Hay que tener en cuenta que cuánta anticipación es requerida depende de la complejidad del tema de la celebración y la complejidad del formato en el que se presentará.
 
-El límite de una fuente secundaria sería que tenga las fuentes de información consultadas. Por ejemplo, un artículo de diario que refiere un nombre de una persona, su lugar de trabajo, y la web de la organización, todos datos verificables.
+El límite de una fuente secundaria sería que tenga las fuentes de información consultadas. Por ejemplo, un artículo de diario que refiere un nombre de una persona, su lugar de trabajo y la web de la organización, todos datos verificables.
 
 Es importante documentar todas las fuentes para poder incluir las referencias necesarias cuando se realice otro tipo de contenido, como un blogpost.
 
@@ -50,10 +50,10 @@ Junto a esto, dependiendo de dónde se publique este trabajo, se puede acompaña
 
 Con el medio gráfico completo, el tema desarrollado y todo bien cocinadito se debe realizar una revisión general tanto del medio gráfico y la implementación del contenido, como de la precisión y claridad de la síntesis de información y la verificabilidad de las fuentes.
 
-En Nodo Ambiental utilizamos para esto __Mattermost__, un sistema de chat laboral de código abierto que permite la colaboración entre los pares de manera fácil. Ésta es una herramienta de uso general y la empleamos en las diversas etapas de la creación de contenido y en distintas áreas de la organización, pero la menciono aquí porque tiene el mayor impacto facilitando que muchos puedan ponerse de acuerdo, hacer comentarios y sugerencias y solicitar cambios.
+En Nodo Ambiental utilizamos para esto __Mattermost__, un sistema de chat laboral de código abierto que permite la colaboración entre los pares de manera fácil. Ésta es una herramienta de uso general y la empleamos en las diversas etapas de la creación de contenido y en distintas áreas de la organización, facilitando, de manera ágil, el intercambio de sugerencias, solicitar cambios y ponernos de acuerdo.
 
 ## Final: El fruto del trabajo
 
 Con todo listo se procede a publicar. Hay que tener en cuenta los distintos canales en los que se publica, de acuerdo al tipo de contenido y el alcance que se busque, se puede publicar en todas las redes relevantes o solamente en alguna de mayor importancia.
 
-Nosotros nos centramos más en Facebook e Instagram, e incursionamos en LinkedIn, Twitter y YouTube, pero nada limita a incorporar canales nuevos si lo amerita la ocasión.
+En la Fundación nos centramos más en Facebook e Instagram, e incursionamos en LinkedIn, Twitter y YouTube, pero nada limita a incorporar canales nuevos si lo amerita la ocasión.
