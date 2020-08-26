@@ -2,7 +2,7 @@
 title: Portada
 description: 
 published: true
-date: 2020-08-26T13:13:16.617Z
+date: 2020-08-26T13:18:45.186Z
 tags: 
 editor: markdown
 ---
@@ -34,6 +34,8 @@ Esta portada contiene los enlaces a las subpáginas y subsecciones correspondien
 
 
 - [Trabajo con redes sociales](/Sistemas-de-Trabajo/Redes-Sociales)
+
+- [Categorías de miembros](/Sistemas-de-Trabajo/Estructura/miembros)
 
 - [Flujos de trabajo en equipo](/Sistemas-de-Trabajo/Flujos-de-Trabajo) __\[WIP]__
 
