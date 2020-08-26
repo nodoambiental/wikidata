@@ -2,7 +2,7 @@
 title: Bienvenido/a
 description: Página de inicio de nodo ambiental
 published: true
-date: 2020-08-25T18:04:18.565Z
+date: 2020-08-26T14:53:56.492Z
 tags: 
 editor: markdown
 ---
@@ -43,7 +43,7 @@ El sitio tiene una jerarquía clara y definida.
 
 Está separado por distintas secciones según la categoría a la que sean pertinentes los artículos, y estas secciones tienen sus propias subdivisiones.
 
-Hasta el momento, esto está organizado de manera:
+Hasta el momento, este sitio está organizado de la siguiente manera:
 </br>
 <div 
      style="
@@ -59,7 +59,7 @@ Hasta el momento, esto está organizado de manera:
   						border-bottom: 1px solid rgba(255,255,255,0.2);
               "
        >Base de conocimiento</p>
-<p>En esta sección se detalla todo el conocimiento acumulado por la Fundación, desde manuales de uso de herramientas, hasta guías sobre cómo realizar ciertas cosas, o información desarrollada durante la elaboración de artículos de difusión. </p>
+<p>En esta sección se detalla todo el conocimiento acumulado por la Fundación, desde manuales de uso de herramientas, hasta guías sobre cómo realizar guias de operación, o información desarrollada durante la elaboración de artículos de difusión. </p>
   <br>
 <p
        style="
@@ -68,7 +68,7 @@ Hasta el momento, esto está organizado de manera:
   						border-bottom: 1px solid rgba(255,255,255,0.2);
               "
        >Sistemas de Trabajo</p>
-<p>En esta sección se describen las formas de operar que tiene la organización y los lineamientos que deben seguirse dentro de cada parte para que las cosas funcionen de manera correcta y ordenada.</p>
+<p>En esta sección se describen las formas de operar que tiene la organización y los lineamientos que deben seguirse dentro de cada parte para que los elementos funcionen de manera correcta y ordenada.</p>
 <br>
 <p
        style="
@@ -120,7 +120,7 @@ Tomemos un ejemplo de descripción general. Supongamos que estamos escribiendo u
   <br>
   Es importante escribir bien un artículo para que el lector pueda comprender adecuadamente la información y se logre el objetivo de transmitir la información que estamos escribiendo. Es importante definir cómo escribir de manera adecuada un artículo para que la Wiki funcione de manera correcta.
   
-  Un buen artículo es claro, conciso y uniforme. Esto quiere decir que procuramos escribir todo de la misma manera; por ejemplo, no mezclando tiempos verbales, forma personal o impersonal, etc. También procuramos escribir de forma consistente; esto quiere decir que si por ejemplo hacemos una tabla de cierta manera, todas las tablas sean así, y si encabezamos algo de cierta manera, todo esté encabezado de la misma forma, etc.
+  Un buen artículo es claro, conciso y uniforme. Esto quiere decir que procuramos escribir todo de la misma manera; por ejemplo, no mezclando tiempos verbales, forma personal o impersonal, etc. También procuramos escribir de forma consistente; esto quiere decir que si por ejemplo hacemos una tabla de cierta manera, todas las tablas sean así, y si encabezamos algo de cierta manera, todo esté encabezado de la misma forma, y cuestiones similiares.
   <p style="text-align: center; font-size: 4em; margin-top: -40px; margin-bottom: 20px;">...</p>
 </div>
 
@@ -141,7 +141,7 @@ En el ejemplo abrimos con la motivación para escribir el artículo, su signific
   						border-bottom: 1px solid rgba(255,255,255,0.2);
               "
        >Contenido</p>
-<p>Teniendo claro el cómo y por qué, se pasa al contenido del artículo. El contenido debe estar expresado de la manera que sea más clara posible, en función de la temática que se esté tratando.</p>
+<p>Teniendo claro el cómo y por qué se pasa al contenido del artículo. El contenido debe estar expresado de la manera que sea más clara posible, en función de la temática que se esté tratando.</p>
 </div> 
 
 Ejemplifiquemos esto, tal como hicimos con el segmento anterior. Supongamos que continuamos con lo que estábamos haciendo y pasamos a detallar el contenido del artículo:
@@ -204,7 +204,7 @@ De nuevo, continuemos con nuestro ejemplo:
   
   Uno es el propósito de archivar conocimiento. El archivado de conocimiento es significativo, de lo contrario cualquier evento puede hacer que desaparezca toda la experiencia y experticia en un dominio que haya desarrollado la organización. Y particularmente, dentro de Nodo Ambiental, aspiramos a un mundo donde haya colaboración abierta, libre y gratuita entre las diversas organizaciones o individuos que son parte de nuestra sociedad, por lo que tener un archivo con todo lo desarrollado hasta el momento es importante.
   
-  Otro es la referencia. Cuando alguien quiere acceder a este conocimiento de un dominio, tiene que tener una orientación de dónde obtenerlo. Aún dentro de una organización, muchas veces sucede que distintas personas tienen distintos conocimientos, pero requieren colaboración para poder lograr sus objetivos comunes y poder saber que ese conocimiento está ahí, que puedo referenciarme a él y que puedo trabajar con él es invaluable para el trabajo en equipo.
+  Otro propósito es la referencia. Cuando alguien quiere acceder a este conocimiento de un dominio, debería tener una orientación de dónde obtenerlo. Aún dentro de una organización, muchas veces sucede que distintas personas tienen distintos conocimientos, pero requieren colaboración para poder lograr sus objetivos comunes y saber que ese conocimiento está ahí, que se puede referenciar a él y que se puede trabajar con él es invaluable para el trabajo en equipo.
   
   Otro es la coordinación. En un sistema como éste, un concepto (ya sea de cómo operar, un conocimiento específico, planes a futuro, entre otras cosas) está abierto a que se discuta sobre él, que se moldee y que se modifique según el consenso obtenido entre todas las partes. Por ejemplo, si alguien escribe una pequeña guía de cómo publicar en Facebook, y a otro integrante relacionado con la tarea de publicar o distribuir la información no le gusta cómo se debe hacer algo, es libre de iniciar una discusión y alcanzar un consenso, para luego editar la guía. 
   Esto es muy importante porque no solamente se coordina el contenido, sino que ofrece un canal claro y directo mediante el cual elevar sus opiniones.
@@ -213,7 +213,7 @@ De nuevo, continuemos con nuestro ejemplo:
   <br>
 </div>
 
-En este ejemplo cerramos explicando en detalle la importancia de realizar el trabajo de escribir un artículo, dando lugar al lector a entender el impacto que puede tener escribirlo bien, y por qué es importante hacerlo así.
+Con este ejemplo cerramos explicando en detalle la importancia de realizar el trabajo de escribir un artículo, dando lugar al lector a entender el impacto que puede tener escribirlo bien, y por qué es importante hacerlo así.
 
 ## Para cerrar
 
