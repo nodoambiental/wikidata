@@ -2,7 +2,7 @@
 title: Celebraciones
 description: Pasos para abordar la generación de contenido relacionado a celebraciones y efemérides
 published: true
-date: 2020-08-26T16:00:41.106Z
+date: 2020-08-27T01:04:51.269Z
 tags: 
 editor: markdown
 ---
@@ -16,9 +16,15 @@ Con una serie de pasos se busca homogeneizar el trabajo realizado entre quienes 
 ## Primero: Preparación del terreno
 El primer paso es investigar en fuentes primarias y secundarias datos de referencia sobre la celebración del día particular. Esto debe hacerse con suficiente anticipación como para que haya tiempo de realizar todos los pasos necesarios para alcanzar el momento de publicar. Hay que tener en cuenta que cuánta anticipación es requerida depende de la complejidad del tema de la celebración y la complejidad del formato en el que se presentará.
 
-El límite de una fuente secundaria sería que tenga las fuentes de información consultadas. Por ejemplo, un artículo de diario que refiere un nombre de una persona, su lugar de trabajo y la web de la organización, todos datos verificables.
+Con respecto a la investigación, es importante poder discriminar y filtrar de manera adecuada las fuentes de información. No cualquier fuente de información es útil o fidedigna; hay que tener cuidado de utilizar orígenes confiables y respaldados adecuadamente.
 
-Es importante documentar todas las fuentes para poder incluir las referencias necesarias cuando se realice otro tipo de contenido, como un blogpost.
+Para ayudarnos a discriminarlas podemos catalogarlas como _fuentes primarias, secundarias y terciarias_. Las fuentes primarias son aquellas que están en el origen, como ser libros no antológicos, publicaciones científicas, datos empíricos, todo lo que no está basado en otra cosa. Las fuentes secundarias son aquellas que están basadas en alguna fuente primaria. Las fuentes terciarias son aquellas que están basadas en fuentes secundarias.
+
+Esta clasificación es útil porque nos ofrece una heurística acerca de la calidad y certeza de la información presentada; es mucho más probable que una fuente terciaria tenga errores conceptuales, datos incorrectos o que esté mal de algún modo, y es más probable que una fuente primaria tenga datos más correctos o presentados de una manera que sea más precisa.
+
+Es por esto que como regla general se pide que __no__ se utilizen fuentes terciarias, y que las fuentes secundarias siempre sean revisadas para comprobar la información presentada, y que existan referencias a las fuentes primarias en las que estén basadas, de manera de poder verificar realmente si la información coincide con sus orígenes. Muchas veces la información presentada en una fuente secundaria no es representativa de sus originales, debido a errores de interpretación, sesgo del autor o directamente buscar tergiversar una discursiva para favorecer a un grupo.
+
+Siempre que realizemos esta investigación es importante documentar todas las fuentes para poder incluir las referencias necesarias que sean relevantes en función del medio donde se vaya a presentar.
 
 ## Segundo: Hacer el pozo
 
